@@ -6,11 +6,11 @@
 - 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk) / (alexander.vindel@gmail.com)
 
 ## Here is a summary of Repos:
-- ME_MIBLP -> Mixed integer Linear modeling with Gurobi 
-- ME_MOGA -> Genetic Algorithm with Gurobi
-- BAFA2019 -> Data Analysis and dashboard for season 2019 
-- BAFA Scrapers -> Web crawlers and scrapers to collect data for BAFA 2019
-- Funnel Experiment -> Simple gui using tkinter 
+- ME_MIBLP -> Mixed integer Linear modeling with Gurobi in metabolic engineering
+- ME_MOGA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
+- BAFA2019 -> Data Analysis (pandas) and dashboard (streamlit) for season 2019 
+- BAFA Scrapers -> Web crawlers and scrapers to collect data for BAFA 2019 (beautifulsoup, selenium)
+- Funnel Experiment -> Simple gui (tkinter)
 
 <!---
 jose-vindel/jose-vindel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
