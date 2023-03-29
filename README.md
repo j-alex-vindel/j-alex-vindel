@@ -7,7 +7,7 @@
 
 ## Here is a summary of Repos:
 - ME_MIBLP -> Mixed integer Linear modeling with Gurobi in metabolic engineering
-- ME_MOGA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
+- ME_GA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
 - BAFA2019 -> Data Analysis (pandas) and dashboard (streamlit) for season 2019 
 - BAFA Scrapers -> Web crawlers and scrapers to collect data for BAFA 2019 (beautifulsoup, selenium)
 - Funnel Experiment -> Simple gui (tkinter)
