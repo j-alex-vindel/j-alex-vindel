@@ -2,7 +2,14 @@
 - 👀 I’m interested in mathematical optimization, linear programming, integer programming, network optimization and bi-level programming
 - 🌱 I’m currently learning to use gurobi solver in python environment, stochastic modelling, and convex optimization.
 - 💞️ I’m looking to collaborate on integer programming and operations research as a whole
-- 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk)
+- 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk) / (alexander.vindel@gmail.com)
+
+#Here is a summary of my Repos:
+- ME_MIBLP
+- ME_MOGA
+- BAFA2019
+- BAFA Scrapers
+- Funnel
 
 <!---
 jose-vindel/jose-vindel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
