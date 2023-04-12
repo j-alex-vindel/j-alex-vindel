@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on integer programming and operations research as a whole
 - 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk) / (alexander.vindel@gmail.com)
 
-## Here is a summary of Repos:
+## Here is a summary of relevant Repos:
 - ME_MIBLP -> Mixed integer Linear modeling with Gurobi in metabolic engineering
 - ME_GA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
 - BAFA2019 -> Data Analysis (pandas) and dashboard (streamlit) for season 2019 
