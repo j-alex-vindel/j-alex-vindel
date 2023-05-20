@@ -1,9 +1,10 @@
 ## About me
 - 👋 Hi, I’m @j-alex-vindel a PhD student at Strathclyde University in the Business School 
-- 👀 I’m interested in mathematical optimization, linear programming, integer programming, network optimization and bi-level programming
-- 🌱 I’m currently learning to use gurobi solver in python environment, stochastic modelling, and convex optimization.
+- 👀 I’m interested in mathematical optimization, linear programming, integer programming, network optimization, bi-level programming and data analytics
+- 🌱 I’m proficient with gurobi solver in python environment.
+- 🌱 I can comfrotably work with several python libraries.
 - 💞️ I’m looking to collaborate on integer programming and operations research as a whole
-- 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk) / (alexander.vindel@gmail.com)
+- 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk) | (alexander.vindel@gmail.com)
 
 ## Here is a summary of relevant Repos:
 - ME_MIBLP -> Mixed integer Linear modeling with Gurobi in metabolic engineering
