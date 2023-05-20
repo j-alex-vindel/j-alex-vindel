@@ -10,8 +10,7 @@
 - ME_GA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
 - BAFA2019 -> Data Analysis (pandas) and dashboard (streamlit) for season 2019 
 - Data_BAFA Scrapers -> Web crawlers and scrapers to collect data for BAFA 2019 (beautifulsoup, selenium)
-- Games Dev -> Text Adventure game in python and a 'dodging' game using pygame
-- Funnel Experiment -> Simple gui (tkinter) (work in progress)
+- Games Dev -> Text Adventure game in python and a dodge the bullet game using pygame
 
 <!---
 jose-vindel/jose-vindel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
