@@ -9,6 +9,7 @@
 ## Here is a summary of relevant Repos:
 - [BILP](https://github.com/j-alex-vindel/Optimistic-Pessimistic-MetNet-KO) -> Mixed-integer Linear modeling with Gurobi in metabolic engineering
 - ME_GA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
+- [Poster Competition](https://github.com/j-alex-vindel/Bi-Level-Conference23) -> Poster Competition for International Conference of Bilevel Optimization
 - [BAFA2019](https://github.com/j-alex-vindel/BAFA_2019_Project) -> Data Analysis (pandas) and dashboard (streamlit) for season 2019 
 - [Data_BAFA](https://github.com/j-alex-vindel/DATA_BAFA) Scrapers -> Web crawlers and scrapers to collect data for BAFA 2019 (beautifulsoup, selenium)
 - [Games Dev](https://github.com/j-alex-vindel/Games_Dev) -> Text Adventure game in python and a dodge the bullet game using pygame 
