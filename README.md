@@ -1,5 +1,5 @@
 ## About me
-- 👋 Hi, I’m @j-alex-vindel a PhD student at Strathclyde University in the Business School 
+- 👋 Hi, I’m @j-alex-vindel a student at Strathclyde University in the Business School 
 - 👀 I’m interested in mathematical optimization, linear programming, integer programming, network optimization, bi-level programming and data analytics
 - 🌱 I’m proficient with gurobi solver in python environment.
 - 🌱 I work comfortably with several python libraries.
