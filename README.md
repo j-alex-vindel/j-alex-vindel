@@ -4,7 +4,8 @@
 - 🌱 I’m proficient with gurobi solver in python environment.
 - 🌱 I work comfortably with several python libraries.
 - 💞️ I’m looking to collaborate on integer programming and operations research as a whole
-- 📫 How to reach me, by email at (jose.vindel-garduno@strath.ac.uk) | (alexander.vindel@gmail.com)
+- 💞️ I’m also interested in Data Analytics and Business Intelligence.
+- 📫 How to reach me, by email at (alexander.vindel@gmail.com)
 
 ## Here is a summary of relevant Repos:
 - [BILP](https://github.com/j-alex-vindel/Optimistic-Pessimistic-MetNet-KO) -> Mixed-integer Linear modeling with Gurobi in metabolic engineering
