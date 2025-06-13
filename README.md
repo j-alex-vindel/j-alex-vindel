@@ -8,7 +8,7 @@
 - 📫 How to reach me, by email at (alexander.vindel@gmail.com)
 
 ## Here is a summary of relevant Repos:
-- [Waste Tool]() -> Building data-driven tools with Python and Streamlit — from automated PDF parsing to email report delivery.
+- [Waste Tool](https://github.com/j-alex-vindel/waste-report-app) -> Building data-driven tools with Python and Streamlit — from automated PDF parsing to email report delivery.
 - [BILP](https://github.com/j-alex-vindel/Optimistic-Pessimistic-MetNet-KO) -> Mixed-integer Linear modeling with Gurobi in metabolic engineering
 - ME_GA -> Genetic Algorithm for multi objective modeling with Gurobi in metabolic engineering
 - [Poster Competition](https://github.com/j-alex-vindel/Bi-Level-Conference23) -> Poster Competition for International Conference of Bilevel Optimization 2023
